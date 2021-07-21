@@ -1,0 +1,2 @@
+PKG traefik
+SYSRC traefik_enable=YES
